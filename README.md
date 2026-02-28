@@ -50,3 +50,8 @@ v1.0 – First public release (2026)
 ## License
 
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+## Authorship
+
+This theory was originally formulated by Kim Jaemin.
+
+All conceptual rights belong to the author.
